@@ -1,3 +1,5 @@
+#calculate hours in days
+
 calculate = 24
 name_of_unit = "hours"
 
