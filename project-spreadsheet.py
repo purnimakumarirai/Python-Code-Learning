@@ -12,7 +12,7 @@ products_per_supplier = {}
 total_value_per_supplier = {}
 products_under_10_inv = {}
 
-#loop
+#loop #for loop and in range for list iteration for valid for loop some logic will be execution
 for product_row in range(2, product_list.max_row + 1):
   
     supplier_name = product_list.cell(product_row, 4).value
